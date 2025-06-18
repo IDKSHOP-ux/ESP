@@ -1,4 +1,4 @@
---== SynX2025 + ESP Script ==--
+--== by Velocity + ESP Script ==--
  
 -- Wait for important services to be ready
 repeat task.wait() until game:IsLoaded()
